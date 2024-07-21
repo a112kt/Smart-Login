@@ -1,0 +1,23 @@
+h1{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    color:RGB(61, 134, 145) ;
+    
+}
+.body{
+    background-color: #D7D5D2;
+}
+.container{
+    background-color:#3B4042 ;
+}
+.group{
+    background-color: #3B4042;
+    padding-bottom: 50px;
+}
+#nav{
+    background-color: #3B4042;
+}
+.group{
+    margin-bottom: 60px;
+}
